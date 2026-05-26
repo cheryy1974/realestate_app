@@ -22,3 +22,8 @@ realestate_app — 不動産関連のアプリケーション。現時点では�
 - **Architecture**: 複数ファイルを横断して理解する必要のある「大きな構造」（モジュール境界、データフロー、外部サービス連携など）
 
 具体や個別ファイルの羅列ではなく、初見の Claude が素早く生産的になるための最小限の情報に絞ること。
+
+## デプロイ情報
+
+- 本番URL：https://realestate-app-eight-silk.vercel.app/
+- Supabaseプロジェクト名：realestate-app
